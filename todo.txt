@@ -1,0 +1,5 @@
+# You stopped here
+https://iolap.udemy.com/course/python-django-2021-complete-course/learn/lecture/27270318#overview
+
+#Source code
+https://github.com/divanov11/Django-2021
