@@ -3,7 +3,7 @@
 
 <h1>Project Form</h1>
 
-<form method="post">
+<form method="post" enctype="multipart/form-data">
     {% csrf_token %}
 <!--    {% for field in fields %}-->
 <!--        {{field.label}}-->
@@ -13,4 +13,4 @@
     <input type="submit">
 </form>
 
-{% endblock %}
+{% endblock content %}
